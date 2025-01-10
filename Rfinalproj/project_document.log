@@ -1,0 +1,352 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.28)  10 JAN 2025 14:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./project_document.tex
+(project_document.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks20
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count267
+\float@exts=\toks21
+\float@box=\box52
+\@float@everytoks=\toks22
+\@floatcapt=\box53
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count268
+\lst@gtempboxa=\box54
+\lst@token=\toks23
+\lst@length=\count269
+\lst@currlwidth=\dimen152
+\lst@column=\count270
+\lst@pos=\count271
+\lst@lostspace=\dimen153
+\lst@width=\dimen154
+\lst@newlines=\count272
+\lst@lineno=\count273
+\lst@maxwidth=\dimen155
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count274
+\lst@skipnumbers=\count275
+\lst@framebox=\box55
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count276
+\l__pdf_internal_box=\box56
+\g__pdf_backend_annotation_int=\count277
+\g__pdf_backend_link_int=\count278
+) (project_document.aux)
+\openout1 = `project_document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+5.
+
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count279
+File: profile.png Graphic file (type bmp)
+<profile.png>
+
+
+[1
+
+] (project_document.toc)
+\tf@toc=\write3
+\openout3 = `project_document.toc'.
+
+
+
+[1]
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2024/09/23 1.10c listings language file
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.sty
+File: lstlang2.sty 2024/09/23 1.10c listings language file
+)
+(C:\Users\ASUS\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.sty
+File: lstlang3.sty 2024/09/23 1.10c listings language file
+)
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 50.
+
+Missing character: There is no پ in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ز in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ت in font [lmmono10-regular]:!
+Missing character: There is no ص in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no و in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+Missing character: There is no و in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ج in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no م in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no چ in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+Missing character: There is no خ in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no و in font [lmmono10-regular]:!
+Missing character: There is no ت in font [lmmono10-regular]:!
+Missing character: There is no غ in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ز in font [lmmono10-regular]:!
+Missing character: There is no ه in font [lmmono10-regular]:!
+Missing character: There is no ب in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ج in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no م in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ج in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no م in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+
+
+[2]
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no م in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ا in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no م in font [lmmono10-regular]:!
+Missing character: There is no ی in font [lmmono10-regular]:!
+Missing character: There is no ش in font [lmmono10-regular]:!
+Missing character: There is no ن in font [lmmono10-regular]:!
+Missing character: There is no د in font [lmmono10-regular]:!
+Missing character: There is no ر in font [lmmono10-regular]:!
+File: ShowPic.png Graphic file (type bmp)
+<ShowPic.png>
+
+
+[3]
+File: processed_image.png Graphic file (type bmp)
+<processed_image.png>
+
+
+[4]
+File: wordcloud.png Graphic file (type bmp)
+<wordcloud.png>
+
+
+[5]
+
+[6]
+File: network_graph.png Graphic file (type bmp)
+<network_graph.png>
+
+
+[7]
+
+[8] (project_document.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-10-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4192 strings out of 409027
+ 61589 string characters out of 5756905
+ 976921 words of memory out of 5000000
+ 26851 multiletter control sequences out of 15000+600000
+ 558173 words of font info for 49 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 57i,6n,65p,285b,2252s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on project_document.pdf (9 pages).
